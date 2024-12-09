@@ -1,6 +1,7 @@
 # event_management_API
 # below are urls...
-register/
-events/'
-eventsList/
-events/<int:event_id>/purchase/
+
+<li>register/
+<li>events/'
+<li>eventsList/
+<li>events/<int:event_id>/purchase/
