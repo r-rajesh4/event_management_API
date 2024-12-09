@@ -17,3 +17,6 @@ I used mysql database below are the table screenshot
 i also tested  APi in POSTMAN also 
 
 ![image](https://github.com/user-attachments/assets/533e161f-4fe3-4041-973e-65f250656565)
+
+UI
+![image](https://github.com/user-attachments/assets/8c7ff58f-056f-4a4b-872a-3fa351d10cb6)
