@@ -7,6 +7,7 @@
 <li>http://127.0.0.1:8000/events/int:event_id/purchase/
 
 
+
 I used mysql database below are the table screenshot
 ![image](https://github.com/user-attachments/assets/1cde2211-164f-42a9-b12f-a2d92cbfb54d)
 
